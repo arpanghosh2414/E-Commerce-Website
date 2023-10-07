@@ -1,6 +1,6 @@
 <p align="center">
         <a href="https://hacktoberfest.com/">
-        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/master/Hacktoberfest-2023-logo.png" alt="Hacktoberfest2023" width="500 height="100"> </a>
+        <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Hacktoberfest2023" width="500 height="100"> </a>
 </p> 
 
 # E-Commerce-Website
@@ -12,7 +12,7 @@ Issuses will be soon be given in this project. After the issue has been solved a
 
 <p align="center">
         <a href="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023">
-        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/master/nav-brand.png" alt="BookWorm" width="500 height="100"> </a>
+        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/nav-brand.png" alt="BookWorm" width="100 height="80" /> </a>
 </p> 
 
 ### PREREQUISITE KNOWLEDGE: -
