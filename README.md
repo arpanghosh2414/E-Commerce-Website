@@ -1,3 +1,8 @@
+<p align="center">
+        <a href="https://hacktoberfest.com/">
+        <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Hacktoberfest2023" width="500 height="100"> </a>
+</p> 
+
 # E-Commerce-Website
 Voice-Based Assistant E-Commerce Website. Book Shopping App.
 Hello,
@@ -6,8 +11,8 @@ PROJECT DOMAIN - Its a project based on Full Stack Web Development<br>
 Issuses will be soon be given in this project. After the issue has been solved and pull request is merged, please write the name in Contributors.md {Link Given Below}
 
 <p align="center">
-        <a href="https://hacktoberfest.com/">
-        <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Hacktoberfest2023" width="500 height="100"> </a>
+        <a href="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023">
+        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/nav-brand.png" alt="BookWorm" width="500 height="100"> </a>
 </p> 
 
 ### PREREQUISITE KNOWLEDGE: -
