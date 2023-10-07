@@ -6,7 +6,8 @@ PROJECT DOMAIN - Its a project based on Full Stack Web Development<br>
 Issuses will be soon be given in this project. After the issue has been solved and pull request is merged, please write the name in Contributors.md {Link Given Below}
 
 <p align="center">
-        <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Hacktoberfest2023" width="0 height="200"> 
+        <a href="https://hacktoberfest.com/">
+        <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Hacktoberfest2023" width="500 height="100"> </a>
 </p> 
 
 ### PREREQUISITE KNOWLEDGE: -
