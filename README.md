@@ -12,7 +12,7 @@ Issuses will be soon be given in this project. After the issue has been solved a
 
 <p align="center">
         <a href="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023">
-        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/nav-brand.png" alt="BookWorm" width="100 height="80" /> </a>
+        <img src="https://bookworm9a.vercel.app/static/media/navlogo.56cbc59d4b1dcf5baa65.png" alt="BookWorm" width="300 height="100" /> </a>
 </p> 
 
 ### PREREQUISITE KNOWLEDGE: -
