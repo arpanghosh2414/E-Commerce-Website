@@ -7,7 +7,7 @@ Issuses will be soon be given in this project. After the issue has been solved a
 
 <p align="center">
     <a href="https://blogbook-blog.herokuapp.com/">
-        <img src="https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/Hfest-Logo-2-Color-Manga.svg" alt="[Project Logo]" width="30%"> 
+        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/master/Hfest-Logo-2-Color-Manga.svg" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
 
