@@ -20,16 +20,16 @@ Issuses will be soon be given in this project. After the issue has been solved a
 * Database : H2(Embedded Database in Spring Boot. Later MongoDB can be in use.)
 
 ### Technical Skillset need to have for the issues in future: -
-* <p>Programming Language used: - <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
-* <p>Front-End: - <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
+* <p>Programming Language used: -&nbsp <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="50"/> </a>&nbsp&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="java" width="40" height="50"/> </a></p>
+* <p>Front-End: -&nbsp <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="angular" width="70" height="50"/> </a></p>
 * <p>Back-End: - <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
-* <p>Database: - <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> (Can be used in future with Spring Boot.)</p>
+* <p>Database: -  <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/data-configuration.png" alt="database"/>&nbsp H2 Database used for testing purpose in Spring Boot.(Can have different database in future.)</p>
 # Hacktober Fest Accepted 
 
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
+        <img src="https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/Hfest-Logo-2-Color-Manga.svg" width="30%">
     </a>
 </p>
 
@@ -57,8 +57,8 @@ Issuses will be soon be given in this project. After the issue has been solved a
 ---
 
 # Contribute
-   ### Do Read - [Code of Conduct](https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/main/CODE_OF_CONDUCT.md)
-   ### Jump to - [Contribute.md](https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/main/CONTRIBUTE.md) (updated)
+   ### Do Read - [Code of Conduct](https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/CODE_OF_CONDUCT.md)
+   ### Jump to - [Contribute.md](https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/CONTRIBUTE.md) (updated)
 Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
 
 ## Steps for a successful commit :zap:
@@ -78,10 +78,10 @@ Why not start your open source journey by merging some codes here. It will be ve
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   Jump to [Contributors.md](https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/main/CONTRIBUTE.md)
+   Jump to [Contributors.md](https://github.com/dsc-iem/E-Commerce-Website-Hacktoberfest2023/blob/master/CONTRIBUTE.md)
    
 ### Live project link
-* Use NgRok Server for temporary hosting after having this repository in your local computer. *Remember to change the API for the interaction with tha backend in ReactJS file.*
+* Use NgRok Server for temporary hosting after having this repository in your local computer. *Remember to change the API for the interaction with the backend in ReactJS code.*
 * Website - [Project Link will be given soon.]<br>
 Perform the Ngrok Server first to load the server and then click on the Website Link.
 
