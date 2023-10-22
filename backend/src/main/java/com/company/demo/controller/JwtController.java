@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.company.demo.entity.User;
 import com.company.demo.jwt.JwtUtil;
-import com.company.demo.model.JwtRequest;
-import com.company.demo.model.JwtResponse;
+import com.company.demo.security.JwtRequest;
+import com.company.demo.security.JwtResponse;
 import com.company.demo.repository.UserRepository;
 import com.company.demo.service.CustomUserDetailsService;
 
@@ -42,6 +42,7 @@ public class JwtController {
 		return msg;
 	}
 
+	//		Fixed Bug : compile time error ( class not found JwtRequest )
 	@PostMapping("/login")
 	public ResponseEntity<?> generateToken(@RequestBody JwtRequest jwtRequest) {
 		String username = jwtRequest.getUsername();
@@ -58,6 +59,7 @@ public class JwtController {
 		User user = userRepository.findById(username).orElse(null);
 		String jwt = jwtUtil.generateToken(userDetails);
 		System.out.println("----- JWT: " + jwt + " -----");
+//		Fixed Bug : compile time error ( class not found JwtResponse )
 		return ResponseEntity.status(201).body(JwtResponse.builder().user(user).jwt(jwt).build());
 	}
 

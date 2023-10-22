@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import com.company.demo.exception.EntityExistsException;
 import com.company.demo.exception.EntityNotFoundException;
 import com.company.demo.exception.NoEntitiesException;
-import com.company.demo.model.ErrorResponse;
 
 @RestControllerAdvice
 public class APIExceptionHandler {
